@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "53d815f7-5821-442d-9f00-51999d56efc1",
+            "Value": {
+                "id": "0c7e58cc-b30d-45d5-9d43-3612297bf7b0",
+                "resourcePath": "sprites\\spr_moon\\spr_moon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d72cd05-0052-4afe-929b-6d3d9c2d0c37",
             "Value": {
                 "id": "5c2742e7-b07c-47b8-8e30-27920244467a",
@@ -196,6 +204,14 @@
                 "id": "210c78e5-f23f-4326-bfc9-7d2cc4a9e65f",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4492202-8056-431a-9897-f99c770fc7a1",
+            "Value": {
+                "id": "a7f5b2fc-c158-4933-af9e-2001a86ed035",
+                "resourcePath": "objects\\obj_moon\\obj_moon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
